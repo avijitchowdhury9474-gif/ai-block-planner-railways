@@ -1,0 +1,16 @@
+task_id,department,corridor,asset_type,description,criticality,overdue_days,est_duration_min,can_share_block,traffic_importance,owner_name,owner_phone
+TMS-001,ENG,SECT-AB,Track,Replace worn-out fishplates,5,10,60,TRUE,5,PWI / SECT?AB,-8999999910
+TMS-002,ENG,SECT-AB,Track,Ultrasonic rail flaw detection,4,0,45,TRUE,4,Signal JE / SECT?AB,-8999999911
+SMMS-001,SNT,SECT-AB,Signal,Signal lamp replacement at home signal,3,5,30,TRUE,5,TRD SSE / SECT?AB,-8999999912
+TDMS-001,TRD,SECT-AB,OHE,Check and tighten OHE fittings,4,2,40,TRUE,4,PWI / SECT?BC,-8999999913
+SMMS-002,SNT,SECT-BC,Signal,Track circuit failure rectification,5,3,50,FALSE,3,Signal JE / SECT?BC,-8999999914
+TMS-003,ENG,SECT-BC,Track,Deep screening of ballast,4,15,90,TRUE,3,TRD SSE / SECT?BC,-8999999915
+TDMS-002,TRD,SECT-BC,OHE,Insulator replacement,5,7,60,TRUE,4, Avijit / PWI,-6297974516
+TMS-004,ENG,SECT-AB,Track,Jogging inspection of track,2,0,30,TRUE,5,,
+SMMS-003,SNT,SECT-AB,Signal,Relay room inspection,3,12,60,TRUE,4,,
+TDMS-003,TRD,SECT-BC,OHE,Overdue OHE patrolling,3,20,120,TRUE,3,,
+TMS-005,ENG,SECT-CD,Track,Level crossing maintenance,4,8,75,FALSE,4,,
+SMMS-004,SNT,SECT-CD,Signal,Point machine lubrication,2,5,30,TRUE,3,,
+TDMS-004,TRD,SECT-CD,OHE,Feeder line inspection,3,0,45,TRUE,3,,
+TMS-006,ENG,SECT-CD,Track,Rail grinding for corrugation removal,5,3,120,FALSE,5,,
+SMMS-005,SNT,SECT-BC,Signal,Axle counter reset and testing,4,1,40,TRUE,4,,
